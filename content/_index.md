@@ -9,7 +9,18 @@ description: Mi primer blog.
 <h3 align="center"> He/him 🙂 | Software Developer 💻 | Mexican 🇲🇽 </h3>
 <hr>
 
-Hola ✌️  soy el explorer **Alberto Valdez** y este es mi blog personal donde compartiré mis aventuras de Launch X 🚀.
+```java
+  class HelloWorld{
+    public static void main(String[] args){
+      System.out.println("!Hola a Todos!👋");
+    }
+  } 
+```  
+Soy **Alberto Valdez**  y este es mi blog personal donde compartiré mis aventuras de Launch X 🚀.
+Tengo 24 años y vivo en León, Guanajuato, México. Actualmente, estudio Ingeniería en Sistemas Computacionales en la Universidad Virtual del Estado de Guanajuato. Me encantan los Videojuegos, las computadoras y la tecnología en general. Mi animal favorito es el gato, soy amante del universo de Star Wars, me fascina el sci fi y la fantasía. 
+Me esfuerzo día con día para llegar a ser un desarrollador de software, todo sea por seguir el camino del programador!  
+
+
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
