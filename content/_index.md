@@ -5,6 +5,10 @@ description: Mi primer blog.
 
 <p align="center"><img src="https://i.ibb.co/qY9G5cv/2-modified.png" alt="2-modified" border="0" width="300" height="300"/></p>
 
+<h1 align="center">Alberto Valdez <a href="https://twitter.com/albertz03_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="albertz03" height="30" width="40" /> </h1>
+<h3 align="center"> He/him 🙂 | Software Developer 💻 | Mexican 🇲🇽 </h3>
+<hr>
+
 Hola ✌️  soy el explorer **Alberto Valdez** y este es mi blog personal donde compartiré mis aventuras de Launch X 🚀.
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
@@ -74,4 +78,4 @@ Estas fueron algunas etapas importantes en mi paso por la misión de FrontEnd qu
     - DOM (Document Object Model
     - Eventos
     - Consumo de APIs
-   - Librerías y paquetes de JS
+    - Librerías y paquetes de JS
